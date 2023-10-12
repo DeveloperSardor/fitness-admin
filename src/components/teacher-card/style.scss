@@ -1,0 +1,74 @@
+.teacher-card{
+width: 27%;
+background: #FFFFFF;
+border-radius: 20px;
+margin-top: 1.4em;
+display: flex;
+position: relative;
+flex-direction: column;
+.teacher_img{
+    width: 130px;
+}
+.btns{
+position: absolute;
+right: 5%;
+top: 5%;
+}
+.body{
+    .teacher_img{
+        width: 130px;
+        border-radius: 40px;
+    }
+    .name{
+        color: #303972;
+        font-family: Poppins;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+    }
+    ._id{
+        color: #4D44B5;
+        font-family: Poppins;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 27px;
+    }
+}
+.bottom{
+    margin-top: 2.4em;
+    .category{
+        .string{
+            color: #A098AE;
+            font-family: Poppins;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 21px;
+        }
+        .number{
+            color: #303972;
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 11.3px;
+            line-height: 16.96px;
+        }
+    }
+    .days{
+        .day_txt{
+            .string{
+                color: #A098AE;
+                font-family: Poppins;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 21px;
+            }
+            .sepay{
+                color: #303972;
+                font-family: Poppins;
+                font-weight: 600;
+                font-size: 11.3px;
+                line-height: 16.96px;
+            }
+        }
+    }
+}
+}

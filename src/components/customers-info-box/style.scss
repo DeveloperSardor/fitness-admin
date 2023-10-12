@@ -1,0 +1,43 @@
+.customer_info_box{
+    .img_name{
+        p{
+            color: #303972;
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+        }
+        img{
+            border-radius: 10px;
+            width: 48px;
+            height: 28px;
+        }
+    }
+    .teacher{
+        color: #A098AE;
+        font-family: Poppins;
+            font-weight: 400;
+            font-size: 17px;
+            line-height: 21px;
+    }
+    .service_price{
+        color: #303972;
+        font-family: Poppins;
+            font-weight: 600;
+            font-size: 23.17px;
+            line-height: 34.76px;
+    }
+    .days{
+        background: #5D5FEF;
+        width: 125px;
+        height: 30px;
+        border-radius: 40px;
+        gap: 10px;
+        text-align: center;
+        color: #FCC43E;
+        font-family: Poppins;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 27px;
+    }
+}

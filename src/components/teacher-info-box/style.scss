@@ -1,0 +1,66 @@
+.box_teacher{
+    .img_name{
+        p{
+            color: #303972;
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+        }
+        img{
+            border-radius: 10px;
+            width: 48px;
+            height: 28px;
+        }
+    }
+    ._id{
+        color: #4D44B5;
+        font-family: Poppins;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+    }
+    .category{
+        img{
+            border-radius: 20px;
+            height: 48px;
+            width: 48px;
+        }
+        .txts{
+            .string{
+              color: #A098AE;
+              font-family: Poppins;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 21px;
+            }
+            .number{   
+             color: #303972;
+             font-family: Poppins;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 27px;
+            }
+        }
+    }
+    .days{
+        background: #5D5FEF;
+        width: 125px;
+        height: 30px;
+        border-radius: 40px;
+        gap: 10px;
+        text-align: center;
+        color: #FCC43E;
+        font-family: Poppins;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 27px;
+    }
+    .dots{
+        width: 24px;
+        height: 24px;
+    }
+}
+
+
+

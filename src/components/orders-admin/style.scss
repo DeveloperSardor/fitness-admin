@@ -1,0 +1,34 @@
+.order_box{
+    margin-top: 0.6em;
+    border-bottom: 1px solid #EAECF0;
+    .all_contents{
+        .left{
+            .cus_info{
+                .name_phone{
+                    .name{
+                        color: #101828;
+                        font-family: Abhaya Libre;
+                        font-weight: 700;
+                        font-size: 15px;
+                        line-height: 18.75px;
+                    }
+                    .phone{
+                        columns: #667085;
+                        font-family: Abhaya Libre;
+                        font-weight: 700;
+                        font-size: 14px;
+                        line-height: 24.5px;
+                    }
+                }
+            }
+            .product_name, .all_price, .start_date, .count{
+                color: #232D42;
+                font-family: Abhaya Libre;
+                        font-weight: 700;
+                        font-size: 16px;
+                        line-height: 28px;
+                    }
+                    
+            }
+        }
+    }

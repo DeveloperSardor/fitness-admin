@@ -1,0 +1,31 @@
+.message_box {
+    padding: 0.5em 0;
+    background: #FFFFFF;
+    .pro_img{
+        width: 45px;
+        border-radius: 35px;
+    }
+    .name_msg{
+        .name{
+            color: #303972;
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 17px;
+            line-height: 21px;
+        }
+        .msg{
+            color: #A098AE;
+            font-family: Poppins;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 21px;
+        }
+    }
+    .time{
+        color: #A098AE;
+        font-family: Poppins;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+    }
+}

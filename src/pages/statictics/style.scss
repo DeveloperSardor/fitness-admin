@@ -1,0 +1,44 @@
+.statictics{
+    .header_{
+        .heading_top {
+          color: #303972;
+          font-family: Poppins;
+          font-weight: 700;
+          font-size: 36px;
+          line-height: 54px;
+        }
+        .right{
+            align-items: center;
+            padding: 1em 0.5em 0;
+            .bell_icon{
+                 cursor: pointer;
+                font-size: 19px;
+            }
+            .setting_icon{
+                cursor: pointer;
+                font-size: 19px;
+            }
+            .title{
+                .name{
+                    color: #303972;
+                    font-family: Poppins;
+                    font-weight: 600;
+                    font-size: 14px;
+                    line-height: 21px;
+                }
+                .who{
+                    color: #A098AE;
+                    font-family: Poppins;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 21px;
+                }
+            }
+            .profile_img{
+                width: 45px;
+                border-radius: 45px;
+            }
+        }
+    }
+
+}

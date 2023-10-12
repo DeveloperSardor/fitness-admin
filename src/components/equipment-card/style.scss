@@ -1,0 +1,36 @@
+.equipment-card{
+    margin-top: 1.2em;
+    background: #C1BBEB;
+    width: 30%;
+    border-radius: 20px;
+  
+    .body{
+        .btns{
+            img{
+                cursor: pointer;
+            }
+            right: 5%;
+            top: 5%;
+        }
+    }
+    .eq_info{
+        .item{
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+            .title{
+                color: #303972;
+            }
+            .company{
+                color: #C11030;
+            }
+            .for{
+                color: #5C63A3;
+            }
+            .price{
+                color: #1128FA;
+            }
+        }
+    }
+}

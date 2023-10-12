@@ -1,0 +1,84 @@
+.orders-page{
+    .header_ {
+        .heading_top {
+          color: #303972;
+          font-family: Poppins;
+          font-weight: 700;
+          font-size: 36px;
+          line-height: 54px;
+        }
+        .right {
+          align-items: center;
+          padding: 1em 0.5em 0;
+          .bell_icon {
+            cursor: pointer;
+            font-size: 19px;
+          }
+          .setting_icon {
+            cursor: pointer;
+            font-size: 19px;
+          }
+          .title {
+            .name {
+              color: #303972;
+              font-family: Poppins;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 21px;
+            }
+            .who {
+              color: #a098ae;
+              font-family: Poppins;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 21px;
+            }
+          }
+          .profile_img {
+            width: 45px;
+            border-radius: 45px;
+          }
+        }
+      }
+
+
+      .customers_box {
+        background: #ffffff;
+        border-radius: 8px 8px 0px 0px;
+        .head {
+            padding: 0.5em 0;
+            gap: 4em;
+            border-bottom: 1px solid #EAECF0;
+          li {
+            p {
+              color: #8a92a6;
+              font-family: Abhaya Libre;
+              font-weight: 700;
+              font-size: 12px;
+              line-height: 21px;
+            }
+          }
+        }
+        .bottom{
+            .pag_txt{
+                color: #344054;
+                font-family: Inter;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+            }
+            button{
+                border: 1px solid #D0D5DD;
+                border-radius: 8px;
+                width: 86px;
+                height: 36px;
+                color: #344054;
+                font-family: Inter;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+            }
+        }
+      }
+}
+

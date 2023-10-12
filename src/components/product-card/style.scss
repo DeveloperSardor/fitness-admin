@@ -1,0 +1,33 @@
+.product-card{
+    background: #C1BBEB;
+    border-radius: 20px;
+    width: 30%;
+    margin-top: 1.2em;
+    .datas{
+        .item{
+            font-family: Poppins;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+            .title{
+                color: #303972;
+            }
+            .company{
+                color: #C11030;
+            }
+            .category{
+                color: #5C63A3;
+            }
+            .price{
+                color: #1128FA;
+            }
+        }
+    }
+    .btns{
+        right: 3%;
+        bottom: 3%;
+        img{
+            cursor: pointer;
+        }
+    }
+}
